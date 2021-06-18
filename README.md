@@ -2,7 +2,10 @@
 First affiliation patform in Tunisia 🇹🇳 http://www.merchily.tn
 Made with:
 - Python Django Back-end
-- HTML/Bootsrap Front-end
+- Django Rest FrameWork for API
+- HTML/Bootsrap & Jquery Front-end
+- MySQL database
+- Docker Compose for deployement
 
 ### Features
 
